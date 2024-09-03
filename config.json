@@ -1,0 +1,238 @@
+{
+  "collectives": [
+    {
+      "slug": "citizenspring",
+      "name": "Citizens Spring",
+      "accounts": [
+        {
+          "name": "EUR (KBC)",
+          "chain": "kbc",
+          "address": "BE46734072238636",
+          "token": {
+            "symbol": "EUR",
+            "decimals": 2
+          },
+          "connector": {
+            "name": "gocardless",
+            "accountId": "ee8d71e4-d8c4-4aa9-a208-23f36bd2ff4f"
+          },
+          "tags": [
+            "EUR",
+            "citizenspring"
+          ]
+        },
+        {
+          "name": "EUR (Wise main)",
+          "chain": "wise",
+          "address": "BE57967948715435",
+          "token": {
+            "symbol": "EUR",
+            "decimals": 2
+          },
+          "connector": {
+            "name": "gocardless",
+            "accountId": "bf5cd0be-40cd-46a7-a111-9510f85b994c"
+          },
+          "tags": [
+            "EUR",
+            "citizenspring",
+            "main"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "regensunite",
+      "name": "Regens Unite",
+      "accounts": [
+        {
+          "name": "EUR (Wise regensunite)",
+          "chain": "wise",
+          "address": "BE57967948715435",
+          "token": {
+            "symbol": "EUR",
+            "decimals": 2
+          },
+          "connector": {
+            "name": "gocardless",
+            "accountId": "439a9ef6-cf23-4045-bef8-33eaee2bd608"
+          },
+          "tags": [
+            "EUR",
+            "regensunite"
+          ]
+        },
+        {
+          "name": "EURe (gnosis)",
+          "chain": "gnosis",
+          "chainId": 100,
+          "address": "0x08e40e1C0681D072a54Fc5868752c02bb3996FFA",
+          "token": {
+            "symbol": "EURe",
+            "decimals": 18,
+            "address": "0x420CA0f9B9b604cE0fd9C18EF134C705e5Fa3430",
+            "startBlock": 33238101
+          },
+          "tags": [
+            "EURe",
+            "regensunite"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "regenvillage",
+      "name": "Regen Village",
+      "accounts": [
+        {
+          "name": "EURb (gnosis)",
+          "chain": "gnosis",
+          "chainId": 100,
+          "address": "0x01A0F9C8cFBf1b76C53Ba1483dcB3fD3477F148C",
+          "token": {
+            "symbol": "EURb",
+            "decimals": 6,
+            "address": "0x5815E61eF72c9E6107b5c5A05FD121F334f7a7f1",
+            "startBlock": 33238101
+          },
+          "tags": [
+            "EURb",
+            "regenvillage"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "commonshub-brussels",
+      "name": "Commons Hub Brussels",
+      "accounts": [
+        {
+          "name": "EUR (Wise chb)",
+          "chain": "wise",
+          "address": "BE57967948715435",
+          "token": {
+            "symbol": "EUR",
+            "decimals": 2
+          },
+          "connector": {
+            "name": "gocardless",
+            "accountId": "d4d1dda4-2d8f-4467-871c-fc70904e78b3"
+          },
+          "tags": [
+            "EUR",
+            "commonshub-brussels"
+          ]
+        },
+        {
+          "name": "euros (open collective)",
+          "chain": "opencollective",
+          "address": "https://opencollective.com/commonshub-brussels",
+          "token": {
+            "symbol": "EUR",
+            "decimals": 2
+          },
+          "tags": [
+            "EUR",
+            "CHB"
+          ]
+        },
+        {
+          "name": "EURb (gnosis)",
+          "chain": "gnosis",
+          "chainId": 100,
+          "address": "0xE5c30d9f83C2FfFf6995d27F340F2BdBB997747E",
+          "token": {
+            "symbol": "EURb",
+            "decimals": 6,
+            "address": "0x5815E61eF72c9E6107b5c5A05FD121F334f7a7f1",
+            "startBlock": 33238101
+          },
+          "tags": [
+            "EURb",
+            "CHB"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "citizenwallet",
+      "name": "Citizen Wallet",
+      "accounts": [
+        {
+          "name": "EUR (Wise citizenwallet)",
+          "chain": "wise",
+          "address": "BE57967948715435",
+          "token": {
+            "symbol": "EUR",
+            "decimals": 2
+          },
+          "connector": {
+            "name": "gocardless",
+            "accountId": "825e2b3e-0d94-46b1-8142-577bf2f7419d"
+          },
+          "tags": [
+            "EUR",
+            "citizenwallet"
+          ]
+        },
+        {
+          "name": "USD (Wise citizenwallet)",
+          "chain": "wise",
+          "address": "BE57967948715435",
+          "token": {
+            "symbol": "USD",
+            "decimals": 2
+          },
+          "connector": {
+            "name": "gocardless",
+            "accountId": "a97f59f2-27e2-4136-8c6b-3a940ea762bf"
+          },
+          "tags": [
+            "USD",
+            "citizenwallet"
+          ]
+        },
+        {
+          "name": "USD (Wise citizenwallet)",
+          "chain": "wise",
+          "address": "BE57967948715435",
+          "token": {
+            "symbol": "USD",
+            "decimals": 2
+          },
+          "connector": {
+            "name": "gocardless",
+            "accountId": "031cfd8e-82f9-458b-94a0-6cef098afc82"
+          },
+          "tags": [
+            "USD",
+            "citizenwallet"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "openletter",
+      "name": "Open Letter",
+      "accounts": [
+        {
+          "name": "EUR (Wise openletter)",
+          "chain": "wise",
+          "address": "BE57967948715435",
+          "token": {
+            "symbol": "EUR",
+            "decimals": 2
+          },
+          "connector": {
+            "name": "gocardless",
+            "accountId": "2501327f-5178-4002-bb4a-a531a1f89ee8"
+          },
+          "tags": [
+            "EUR",
+            "openletter"
+          ]
+        }
+      ]
+    }
+  ]
+}

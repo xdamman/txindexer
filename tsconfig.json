@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "module": "nodenext",
+    "lib": ["es2022", "dom"], // include es2017 or later
+    "target": "es2022", 
+    "baseUrl": ".",
+    "typeRoots": ["./node_modules/@types", "./types"],
+  },
+  "include": ["**/*.ts", "**/*.tsx", "**/*.js", "**/*.jsx", "**/*.json"]
+}

@@ -1,0 +1,6 @@
+.env.local
+.env.test
+node_modules
+.*.json
+*.sqlite
+*.db

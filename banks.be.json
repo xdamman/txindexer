@@ -1,0 +1,830 @@
+[
+  {
+    "id": "ABNAMRO_ABNABE2AXXX",
+    "name": "ABN AMRO Bank Commercial",
+    "bic": "ABNABE2AXXX",
+    "transaction_total_days": "540",
+    "countries": [
+      "BE"
+    ],
+    "logo": "https://storage.googleapis.com/gc-prd-institution_icons-production/UK/PNG/abnamrobank.png"
+  },
+  {
+    "id": "AION_BMPBBEBBXXX",
+    "name": "Aion Bank",
+    "bic": "BMPBBEBBXXX",
+    "transaction_total_days": "730",
+    "countries": [
+      "BE"
+    ],
+    "logo": "https://cdn-logos.gocardless.com/ais/AION_BMPBBEBBXXX.png"
+  },
+  {
+    "id": "AIRWALLEX_AIPTAU32",
+    "name": "Airwallex",
+    "bic": "AIPTAU32",
+    "transaction_total_days": "730",
+    "countries": [
+      "GR",
+      "BE",
+      "LU",
+      "DK",
+      "PT",
+      "SK",
+      "SI",
+      "MT",
+      "HU",
+      "BG",
+      "LT",
+      "IS",
+      "IE",
+      "LI",
+      "RO",
+      "PL",
+      "IT",
+      "ES",
+      "GB",
+      "HR",
+      "FR",
+      "NL",
+      "CY",
+      "LV",
+      "FI",
+      "EE",
+      "SE",
+      "NO",
+      "DE",
+      "AT",
+      "CZ"
+    ],
+    "logo": "https://cdn-logos.gocardless.com/ais/AIRWALLEX_AIPTAU32_1.png"
+  },
+  {
+    "id": "ARGENTA_ARSPBE22",
+    "name": "Argenta",
+    "bic": "ARSPBE22",
+    "transaction_total_days": "730",
+    "countries": [
+      "BE"
+    ],
+    "logo": "https://cdn-logos.gocardless.com/ais/ARGENTA_ARSPBE22.png"
+  },
+  {
+    "id": "VAN_BREDA_JVBABE22XXX",
+    "name": "Bank J. Van Breda & Co",
+    "bic": "JVBABE22XXX",
+    "transaction_total_days": "730",
+    "countries": [
+      "BE"
+    ],
+    "logo": "https://cdn-logos.gocardless.com/ais/VAN_BREDA_JVBABE22XXX.png"
+  },
+  {
+    "id": "BANQUE_CPH_CPHBBE75XXX",
+    "name": "Banque CPH",
+    "bic": "CPHBBE75XXX",
+    "transaction_total_days": "365",
+    "countries": [
+      "BE"
+    ],
+    "logo": "https://cdn-logos.gocardless.com/ais/BANQUE_CPH_CPHBBE75XXX.png"
+  },
+  {
+    "id": "TRANSATLANTIQUE_CMCIBEB1",
+    "name": "Banque Transatlantique",
+    "bic": "CMCIBEB1",
+    "transaction_total_days": "730",
+    "countries": [
+      "BE"
+    ],
+    "logo": "https://cdn-logos.gocardless.com/ais/TRANSATLANTIQUE_CMCIBEB1.png"
+  },
+  {
+    "id": "TRIODOS_BEFR_TRIOBEBB",
+    "name": "Banque Triodos",
+    "bic": "TRIOBEBB",
+    "transaction_total_days": "730",
+    "countries": [
+      "BE"
+    ],
+    "logo": "https://storage.googleapis.com/gc-prd-institution_icons-production/UK/PNG/triodosbank.png"
+  },
+  {
+    "id": "BANX_GKCCBEBB",
+    "name": "Banx",
+    "bic": "GKCCBEBB",
+    "transaction_total_days": "730",
+    "countries": [
+      "BE"
+    ],
+    "logo": "https://cdn-logos.gocardless.com/ais/BANX_GKCCBEBB.png"
+  },
+  {
+    "id": "BBVABE_BBVABEBB",
+    "name": "BBVA",
+    "bic": "BBVABEBB",
+    "transaction_total_days": "730",
+    "countries": [
+      "BE"
+    ],
+    "logo": "https://cdn-logos.gocardless.com/ais/BBVABE_BBVABEBB.png"
+  },
+  {
+    "id": "BELFIUS_GKCCBEBB",
+    "name": "Belfius",
+    "bic": "GKCCBEBB",
+    "transaction_total_days": "730",
+    "countries": [
+      "BE"
+    ],
+    "logo": "https://cdn-logos.gocardless.com/ais/BELFIUS_GKCCBEBB.png"
+  },
+  {
+    "id": "BEOBANK_CTBKBEBX",
+    "name": "Beobank",
+    "bic": "CTBKBEBX",
+    "transaction_total_days": "90",
+    "countries": [
+      "BE"
+    ],
+    "logo": "https://cdn-logos.gocardless.com/ais/BEOBANK_CTBKBEBX.png"
+  },
+  {
+    "id": "BNP_BE_GEBABEBB",
+    "name": "BNP Paribas Fortis",
+    "bic": "GEBABEBB",
+    "transaction_total_days": "730",
+    "countries": [
+      "BE"
+    ],
+    "logo": "https://cdn-logos.gocardless.com/ais/BNP_BE_BUSINESS_GEBABEBB.png"
+  },
+  {
+    "id": "BNP_BE_BUSINESS_GEBABEBB",
+    "name": "BNP Paribas Fortis Business",
+    "bic": "GEBABEBB",
+    "transaction_total_days": "730",
+    "countries": [
+      "BE"
+    ],
+    "logo": "https://cdn-logos.gocardless.com/ais/BNP_BE_BUSINESS_GEBABEBB.png"
+  },
+  {
+    "id": "BUNQ_BUNQNL2A",
+    "name": "bunq",
+    "bic": "BUNQNL2A",
+    "transaction_total_days": "730",
+    "countries": [
+      "ES",
+      "MT",
+      "FR",
+      "AT",
+      "NO",
+      "LU",
+      "FI",
+      "DE",
+      "GR",
+      "IT",
+      "LI",
+      "CZ",
+      "HR",
+      "SI",
+      "HU",
+      "DK",
+      "EE",
+      "BE",
+      "SK",
+      "NL",
+      "RO",
+      "PT",
+      "SE",
+      "IE",
+      "BG",
+      "CY",
+      "IS"
+    ],
+    "logo": "https://storage.googleapis.com/gc-prd-institution_icons-production/DE/PNG/bunq.png"
+  },
+  {
+    "id": "CBC_CREGBEBB",
+    "name": "CBC Banque",
+    "bic": "CREGBEBB",
+    "transaction_total_days": "365",
+    "countries": [
+      "BE"
+    ],
+    "logo": "https://cdn-logos.gocardless.com/ais/CBC_CREGBEBB.png"
+  },
+  {
+    "id": "CRELAN_NICABEBB",
+    "name": "Crelan",
+    "bic": "NICABEBB",
+    "transaction_total_days": "730",
+    "countries": [
+      "BE"
+    ],
+    "logo": "https://cdn-logos.gocardless.com/ais/CRELAN_NICABEBB.png"
+  },
+  {
+    "id": "DEUTSCHE_BANK_DEUTBEBE",
+    "name": "Deutsche Bank",
+    "bic": "DEUTBEBE",
+    "transaction_total_days": "365",
+    "countries": [
+      "BE"
+    ],
+    "logo": "https://storage.googleapis.com/gc-prd-institution_icons-production/DE/PNG/deutschebank.png"
+  },
+  {
+    "id": "EBURY_EBPBBEB1XXX",
+    "name": "Ebury",
+    "bic": "EBPBBEB1XXX",
+    "transaction_total_days": "180",
+    "countries": [
+      "BE",
+      "DE"
+    ],
+    "logo": "https://storage.googleapis.com/gc-prd-institution_icons-production/FR/PNG/ebury.png"
+  },
+  {
+    "id": "EUROPA_BANK_EURBBE99XXX",
+    "name": "Europa Bank",
+    "bic": "EURBBE99XXX",
+    "transaction_total_days": "180",
+    "countries": [
+      "BE"
+    ],
+    "logo": "https://cdn-logos.gocardless.com/ais/EUROPA_BANK_EURBBE99XXX.png"
+  },
+  {
+    "id": "FINTRO_BE_GEBABEBB",
+    "name": "Fintro",
+    "bic": "GEBABEBB",
+    "transaction_total_days": "730",
+    "countries": [
+      "BE"
+    ],
+    "logo": "https://cdn-logos.gocardless.com/ais/FINTRO_BE_BUSINESS_GEBABEBB.png"
+  },
+  {
+    "id": "FINTRO_BE_BUSINESS_GEBABEBB",
+    "name": "Fintro Business",
+    "bic": "GEBABEBB",
+    "transaction_total_days": "730",
+    "countries": [
+      "BE"
+    ],
+    "logo": "https://cdn-logos.gocardless.com/ais/FINTRO_BE_BUSINESS_GEBABEBB.png"
+  },
+  {
+    "id": "HELLO_BE_GEBABEBB",
+    "name": "Hello bank!",
+    "bic": "GEBABEBB",
+    "transaction_total_days": "730",
+    "countries": [
+      "BE"
+    ],
+    "logo": "https://cdn-logos.gocardless.com/ais/HELLO_BE_GEBABEBB.png"
+  },
+  {
+    "id": "HSBC_NET_HSBCIE2D",
+    "name": "HSBCnet",
+    "bic": "HSBCIE2DXXX",
+    "transaction_total_days": "730",
+    "countries": [
+      "NO",
+      "SE",
+      "FI",
+      "DK",
+      "EE",
+      "LV",
+      "LT",
+      "NL",
+      "CZ",
+      "ES",
+      "PL",
+      "BE",
+      "DE",
+      "AT",
+      "BG",
+      "HR",
+      "CY",
+      "FR",
+      "GR",
+      "HU",
+      "IS",
+      "IE",
+      "IT",
+      "LI",
+      "LU",
+      "MT",
+      "PT",
+      "RO",
+      "SK",
+      "SI"
+    ],
+    "logo": "https://storage.googleapis.com/gc-prd-institution_icons-production/UK/PNG/hsbcpersonal.png"
+  },
+  {
+    "id": "ING_BBRUBEBB",
+    "name": "ING",
+    "bic": "BBRUBEBB",
+    "transaction_total_days": "730",
+    "countries": [
+      "BE"
+    ],
+    "logo": "https://storage.googleapis.com/gc-prd-institution_icons-production/DE/PNG/ing.png"
+  },
+  {
+    "id": "ING_WB_INGBNL2A",
+    "name": "ING Wholesale Banking",
+    "bic": "INGBNL2AXXX",
+    "transaction_total_days": "540",
+    "countries": [
+      "ES",
+      "BE",
+      "SK",
+      "NL",
+      "RO",
+      "FR",
+      "AT",
+      "LU",
+      "PT",
+      "DE",
+      "IT",
+      "IE",
+      "CZ",
+      "GB",
+      "BG",
+      "HU"
+    ],
+    "logo": "https://storage.googleapis.com/gc-prd-institution_icons-production/DE/PNG/ing.png"
+  },
+  {
+    "id": "KBC_KREDBEBB",
+    "name": "KBC",
+    "bic": "KREDBEBB",
+    "transaction_total_days": "365",
+    "countries": [
+      "BE"
+    ],
+    "logo": "https://storage.googleapis.com/gc-prd-institution_icons-production/FR/PNG/kbc.png"
+  },
+  {
+    "id": "KBC_BRUSSELS_KREDBEBB",
+    "name": "KBC Brussels",
+    "bic": "KREDBEBB",
+    "transaction_total_days": "365",
+    "countries": [
+      "BE"
+    ],
+    "logo": "https://cdn-logos.gocardless.com/ais/KBC_BRUSSELS_KREDBEBB.png"
+  },
+  {
+    "id": "KEYTRADE_KEYTBEBB",
+    "name": "Keytrade Bank",
+    "bic": "KEYTBEBB",
+    "transaction_total_days": "365",
+    "countries": [
+      "BE"
+    ],
+    "logo": "https://cdn-logos.gocardless.com/ais/KEYTRADE_KEYTBEBB.png"
+  },
+  {
+    "id": "LUNAR_LUNADK22",
+    "name": "Lunar",
+    "bic": "LUNADK22",
+    "transaction_total_days": "90",
+    "countries": [
+      "GR",
+      "BE",
+      "LU",
+      "DK",
+      "PT",
+      "SK",
+      "SI",
+      "MT",
+      "HU",
+      "BG",
+      "LT",
+      "IS",
+      "IE",
+      "LI",
+      "RO",
+      "PL",
+      "IT",
+      "ES",
+      "GB",
+      "HR",
+      "FR",
+      "NL",
+      "CY",
+      "LV",
+      "FI",
+      "EE",
+      "SE",
+      "NO",
+      "DE",
+      "AT",
+      "CZ"
+    ],
+    "logo": "https://cdn-logos.gocardless.com/ais/LUNAR_LUNADK22.png"
+  },
+  {
+    "id": "MONESE_MNEEBEB2",
+    "name": "Monese",
+    "bic": "MNEEBEB2",
+    "transaction_total_days": "730",
+    "countries": [
+      "NO",
+      "SE",
+      "FI",
+      "DK",
+      "EE",
+      "LV",
+      "LT",
+      "NL",
+      "CZ",
+      "ES",
+      "PL",
+      "BE",
+      "DE",
+      "AT",
+      "BG",
+      "HR",
+      "CY",
+      "FR",
+      "GR",
+      "HU",
+      "IS",
+      "IE",
+      "IT",
+      "LI",
+      "LU",
+      "MT",
+      "PT",
+      "RO",
+      "SK",
+      "SI"
+    ],
+    "logo": "https://storage.googleapis.com/gc-prd-institution_icons-production/FR/PNG/monese.png"
+  },
+  {
+    "id": "N26_NTSBDEB1",
+    "name": "N26 Bank",
+    "bic": "NTSBDEB1XXX",
+    "transaction_total_days": "730",
+    "countries": [
+      "GR",
+      "BE",
+      "LU",
+      "DK",
+      "PT",
+      "SK",
+      "SI",
+      "MT",
+      "HU",
+      "BG",
+      "LT",
+      "IS",
+      "IE",
+      "LI",
+      "RO",
+      "PL",
+      "IT",
+      "ES",
+      "GB",
+      "HR",
+      "FR",
+      "NL",
+      "CY",
+      "LV",
+      "FI",
+      "EE",
+      "SE",
+      "NO",
+      "DE",
+      "AT",
+      "CZ"
+    ],
+    "logo": "https://storage.googleapis.com/gc-prd-institution_icons-production/DE/PNG/n26.png"
+  },
+  {
+    "id": "NAGELMACKERS_BNAGBEBBXXX",
+    "name": "Nagelmackers",
+    "bic": "BNAGBEBBXXX",
+    "transaction_total_days": "730",
+    "countries": [
+      "BE"
+    ],
+    "logo": "https://cdn-logos.gocardless.com/ais/NAGELMACKERS_BNAGBEBBXXX.png"
+  },
+  {
+    "id": "PAYPAL_PPLXLULL",
+    "name": "PayPal",
+    "bic": "PPLXLULLXXX",
+    "transaction_total_days": "90",
+    "countries": [
+      "GR",
+      "BE",
+      "LU",
+      "DK",
+      "PT",
+      "SK",
+      "SI",
+      "MT",
+      "HU",
+      "BG",
+      "LT",
+      "IS",
+      "IE",
+      "LI",
+      "RO",
+      "PL",
+      "IT",
+      "ES",
+      "GB",
+      "HR",
+      "FR",
+      "NL",
+      "CY",
+      "LV",
+      "FI",
+      "EE",
+      "SE",
+      "NO",
+      "DE",
+      "AT",
+      "CZ"
+    ],
+    "logo": "https://cdn-logos.gocardless.com/ais/PAYPAL_PPLXLULL.png"
+  },
+  {
+    "id": "PAYSERA_EVIULT21XXX",
+    "name": "Paysera",
+    "bic": "EVIULT21XXX",
+    "transaction_total_days": "90",
+    "countries": [
+      "GR",
+      "BE",
+      "LU",
+      "DK",
+      "PT",
+      "SK",
+      "SI",
+      "MT",
+      "HU",
+      "BG",
+      "LT",
+      "IS",
+      "IE",
+      "LI",
+      "RO",
+      "PL",
+      "IT",
+      "ES",
+      "GB",
+      "HR",
+      "FR",
+      "NL",
+      "CY",
+      "LV",
+      "FI",
+      "EE",
+      "SE",
+      "NO",
+      "DE",
+      "AT",
+      "CZ"
+    ],
+    "logo": "https://storage.googleapis.com/gc-prd-institution_icons-production/UK/PNG/paysera.png"
+  },
+  {
+    "id": "REVOLUT_REVOLT21",
+    "name": "Revolut",
+    "bic": "REVOLT21XXX",
+    "transaction_total_days": "730",
+    "countries": [
+      "NO",
+      "SE",
+      "FI",
+      "DK",
+      "EE",
+      "LV",
+      "LT",
+      "NL",
+      "CZ",
+      "ES",
+      "PL",
+      "BE",
+      "DE",
+      "AT",
+      "BG",
+      "HR",
+      "CY",
+      "FR",
+      "GR",
+      "HU",
+      "IS",
+      "IE",
+      "IT",
+      "LI",
+      "LU",
+      "MT",
+      "PT",
+      "RO",
+      "SK",
+      "SI"
+    ],
+    "logo": "https://storage.googleapis.com/gc-prd-institution_icons-production/UK/PNG/revolut.png"
+  },
+  {
+    "id": "PAYSAFE_SKRLGB2L",
+    "name": "Skrill",
+    "bic": "SKRLGB2L",
+    "transaction_total_days": "730",
+    "countries": [
+      "GR",
+      "BE",
+      "LU",
+      "DK",
+      "PT",
+      "SK",
+      "SI",
+      "MT",
+      "HU",
+      "BG",
+      "LT",
+      "IS",
+      "IE",
+      "LI",
+      "RO",
+      "PL",
+      "IT",
+      "ES",
+      "GB",
+      "HR",
+      "FR",
+      "NL",
+      "CY",
+      "LV",
+      "FI",
+      "EE",
+      "SE",
+      "NO",
+      "DE",
+      "AT",
+      "CZ"
+    ],
+    "logo": "https://cdn-logos.gocardless.com/ais/PAYSAFE_SKRLGB2L.png"
+  },
+  {
+    "id": "SOLDO_SFSDIE22",
+    "name": "Soldo",
+    "bic": "SFSDIE22",
+    "transaction_total_days": "730",
+    "countries": [
+      "NO",
+      "SE",
+      "FI",
+      "DK",
+      "EE",
+      "LV",
+      "LT",
+      "NL",
+      "CZ",
+      "ES",
+      "PL",
+      "BE",
+      "DE",
+      "AT",
+      "BG",
+      "HR",
+      "CY",
+      "FR",
+      "GR",
+      "HU",
+      "IS",
+      "IE",
+      "IT",
+      "LI",
+      "LU",
+      "MT",
+      "PT",
+      "RO",
+      "SK",
+      "SI"
+    ],
+    "logo": "https://cdn-logos.gocardless.com/ais/SOLDO_SFSDIE22.png"
+  },
+  {
+    "id": "STRIPE_STPUIE21",
+    "name": "Stripe",
+    "bic": "STPUIE21",
+    "transaction_total_days": "730",
+    "countries": [
+      "GR",
+      "BE",
+      "LU",
+      "DK",
+      "PT",
+      "SK",
+      "SI",
+      "MT",
+      "HU",
+      "BG",
+      "LT",
+      "IS",
+      "IE",
+      "LI",
+      "RO",
+      "PL",
+      "IT",
+      "ES",
+      "GB",
+      "HR",
+      "FR",
+      "NL",
+      "CY",
+      "LV",
+      "FI",
+      "EE",
+      "SE",
+      "NO",
+      "DE",
+      "AT",
+      "CZ"
+    ],
+    "logo": "https://cdn-logos.gocardless.com/ais/STRIPE_STPUIE21.png"
+  },
+  {
+    "id": "SMBC_SMBCBEBB",
+    "name": "Sumitomo Mitsui Banking Corporation",
+    "bic": "SMBCBEBB",
+    "transaction_total_days": "730",
+    "countries": [
+      "BE"
+    ],
+    "logo": "https://cdn-logos.gocardless.com/ais/SMBC_SMBCDEDD.png"
+  },
+  {
+    "id": "TRIODOS_BENL_TRIOBEBB",
+    "name": "Triodos Bank",
+    "bic": "TRIOBEBB",
+    "transaction_total_days": "730",
+    "countries": [
+      "BE"
+    ],
+    "logo": "https://storage.googleapis.com/gc-prd-institution_icons-production/UK/PNG/triodosbank.png"
+  },
+  {
+    "id": "VDK_VDSPBE22XXX",
+    "name": "VDK Bank",
+    "bic": "VDSPBE22XXX",
+    "transaction_total_days": "365",
+    "countries": [
+      "BE"
+    ],
+    "logo": "https://cdn-logos.gocardless.com/ais/VDK_VDSPBE22XXX.png"
+  },
+  {
+    "id": "WISE_TRWIGB22",
+    "name": "Wise",
+    "bic": "TRWIGB22XXX",
+    "transaction_total_days": "730",
+    "countries": [
+      "GR",
+      "BE",
+      "LU",
+      "DK",
+      "PT",
+      "SK",
+      "SI",
+      "MT",
+      "HU",
+      "BG",
+      "LT",
+      "IS",
+      "IE",
+      "LI",
+      "RO",
+      "PL",
+      "IT",
+      "ES",
+      "GB",
+      "HR",
+      "FR",
+      "NL",
+      "CY",
+      "LV",
+      "FI",
+      "EE",
+      "SE",
+      "NO",
+      "DE",
+      "AT",
+      "CZ"
+    ],
+    "logo": "https://storage.googleapis.com/gc-prd-institution_icons-production/UK/PNG/wise.png"
+  }
+]
